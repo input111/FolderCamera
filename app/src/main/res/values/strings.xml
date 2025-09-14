@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">文件夹相机</string>
+    <string name="settings">设置</string>
+    <string name="capture">拍照</string>
+    <string name="default_folder">Pictures</string>
+    <string name="folder_settings">文件夹设置</string>
+    <string name="folder_name_hint">输入文件夹名称</string>
+    <string name="create">新建</string>
+    <string name="select_folder">选择存储文件夹</string>
+    <string name="folder_icon">文件夹图标</string>
+    <string name="delete_folder">删除文件夹</string>
+    <string name="permission_camera_denied">需要相机权限才能拍照</string>
+    <string name="permission_storage_denied">需要存储权限才能保存照片</string>
+    <string name="folder_created">文件夹创建成功</string>
+    <string name="folder_deleted">文件夹删除成功</string>
+    <string name="folder_name_empty">请输入文件夹名称</string>
+    <string name="folder_exists">文件夹已存在</string>
+    <string name="photo_saved">照片已保存</string>
+    <string name="photo_save_failed">照片保存失败</string>
+</resources>
